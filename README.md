@@ -1,7 +1,11 @@
+# Deprecated
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This project will no longer receive updates, use at your own risk.
+
 # WP REST API Sidebars
 An extension for the WP REST API that exposes endpoints for sidebars and widgets.
-
-*note: this plugin is under heavy development and will receive frequent feature updates (including documentation) so stay tuned*
 
 ## Installation
 
